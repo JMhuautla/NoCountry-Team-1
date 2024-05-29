@@ -38,8 +38,6 @@
 
 ### Team Data Engineering
 - Agustín Jerez - Team Leader
-- Ariel Alonso
-
 
 ### Project Manager
 - Milagros Torres
