@@ -11,3 +11,12 @@ def porcentaje_valores_nulos(dataframe):
     
     for columna, porcentaje in porcentaje_nulos.items():
         print(f'La columna {columna} tiene un {porcentaje: .2f} % de valores nulos')
+
+def registros_duplicados(df):
+    '''
+    Función que recibe como parametro un DataFrame
+    y retorna un DataFrame con los registros duplicados.
+    
+    '''
+    df = df[df.duplicated(keep=False)]
+    return df
