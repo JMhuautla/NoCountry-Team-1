@@ -37,7 +37,7 @@
 - Johana Sanchez
 
 ### Team Data Engineering
-- Agustín Jerez - Team Leader
+- Agustín Jerez
 
 ### Project Manager
 - Milagros Torres
