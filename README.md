@@ -1,3 +1,5 @@
+![Equipo](./images/equipo.png)
+
 # Safe Money for Everyone 
 
 ## Introducción
