@@ -1,6 +1,6 @@
 ![Equipo](./images/equipo.png)
 
-# Safe Money for Everyone 
+# <h1 align=center> **Safe Money for Everyone** </h1>
 
 ## Introducción
 
