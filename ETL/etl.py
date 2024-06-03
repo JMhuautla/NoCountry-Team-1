@@ -145,4 +145,4 @@ if __name__ == "__main__":
     path = '../DataSets/'
     data = 'application_data.csv'
     
-    transform_parquet(path, data)
+    transform_parquet(path=path, file_name=data)
