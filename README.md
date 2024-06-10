@@ -4,9 +4,30 @@
 
 ## Introducción
 
+En la era digital, las instituciones financieras están adoptando cada vez más soluciones basadas en datos para mejorar la toma de decisiones y mitigar riesgos. Este proyecto presenta una aplicación de machine learning diseñada para predecir la probabilidad de que un cliente bancario tenga dificultades de pago en sus préstamos. Utilizando un modelo de regresión logistica, este sistema permite a los bancos anticipar problemas y tomar medidas preventivas adecuadas para minimizar las pérdidas financieras; como así también, analizar en detalle el perfil y el estado fiananciero de cada cliente a través de un dashboard interactivo.
+
 ## Contexto
 
+El proyecto se desarrolla en el contexto de una entidad financiera (Prestige Bank) que busca mejorar su capacidad de gestión del riesgo crediticio. Tradicionalmente, los bancos han evaluado el riesgo crediticio basándose en métodos cualitativos y cuantitativos clásicos. Sin embargo, con la disponibilidad de grandes volúmenes de datos y los avances en machine learning, es posible construir modelos predictivos más precisos y automatizados.
+
+Este sistema se construye utilizando datos históricos de clientes, que incluyen variables laborales y financieras. La plataforma desarrollada en Streamlit proporciona una interfaz intuitiva para que los analistas de riesgo puedan introducir datos de nuevos clientes y obtener instantáneamente una predicción de la probabilidad de dificultades de pago.
+
+![PrestigeBank](./images/prestigebank.png)
+
 ## Objetivo
+
+El objetivo principal de este proyecto es desarrollar una aplicación interactiva que integre un modelo de machine learning capaz de predecir la probabilidad de dificultades de pago en clientes de la entidad financiera. Para lograr esto, nos hemos propuesto las siguientes metas específicas:
+
+- **Recopilación y Análisis de Datos:** Obtener y analizar los datos históricos de los clientes, incluyendo variables financieras y comportamentales.
+
+- **Desarrollo del Modelo:** Entrenar y validar un modelo de regresión lineal que pueda predecir la probabilidad de dificultades de pago.
+
+- **Implementación de la Aplicación:** Crear una interfaz interactiva utilizando Streamlit, donde los usuarios puedan ingresar datos de clientes y obtener predicciones en tiempo real.
+
+- **Desarrollo del Dashboard Interactivo:** El dashboard proporcionará a los usuarios una vista integral y dinámica de la situación financiera de los clientes, facilitando una toma de decisiones más informada.
+
+Este proyecto no solo busca aportar valor a Prestige Bank mediante la reducción de riesgos, sino también demostrar el poder del análisis de datos y el machine learning en la toma de decisiones estratégicas dentro del sector financiero.
+
 
 ## Stack Tecnológico
 - Python (compatible con versiones 3.9 en adelante)
