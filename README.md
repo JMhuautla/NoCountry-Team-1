@@ -20,7 +20,7 @@ El objetivo principal de este proyecto es desarrollar una aplicación interactiv
 
 - **Recopilación y Análisis de Datos:** Obtener y analizar los datos históricos de los clientes, incluyendo variables financieras y comportamentales.
 
-- **Desarrollo del Modelo:** Entrenar y validar un modelo de regresión lineal que pueda predecir la probabilidad de dificultades de pago.
+- **Desarrollo del Modelo:** Entrenar y validar un modelo de regresión logistica que pueda predecir la probabilidad de dificultades de pago.
 
 - **Implementación de la Aplicación:** Crear una interfaz interactiva utilizando Streamlit, donde los usuarios puedan ingresar datos de clientes y obtener predicciones en tiempo real.
 
