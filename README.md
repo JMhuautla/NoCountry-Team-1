@@ -40,7 +40,7 @@ Este proyecto no solo busca aportar valor a Prestige Bank mediante la reducción
 - Power BI
 - Streamlit
 
-![Stack Diagram](./images/diagrams/stack-diagram.jpeg)
+![Stack Diagram](./images/diagrams/StackTecnologicoDiagram.png)
 
 ## Flujo de Trabajo
 ![Work Flow Diagram](./images/diagrams/work-flow-diagram.jpeg)
