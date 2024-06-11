@@ -4,7 +4,7 @@
 
 ## Introducción
 
-En la era digital, las instituciones financieras están adoptando cada vez más soluciones basadas en datos para mejorar la toma de decisiones y mitigar riesgos. Este proyecto presenta una aplicación de machine learning diseñada para predecir la probabilidad de que un cliente bancario tenga dificultades de pago en sus préstamos. Utilizando un modelo de regresión logistica, este sistema permite a los bancos anticipar problemas y tomar medidas preventivas adecuadas para minimizar las pérdidas financieras; como así también, analizar en detalle el perfil y el estado fiananciero de cada cliente a través de un dashboard interactivo.
+En la era digital, las instituciones financieras están adoptando cada vez más soluciones basadas en datos para mejorar la toma de decisiones y mitigar riesgos. Este proyecto presenta una aplicación de machine learning diseñada para predecir la probabilidad de que un cliente bancario tenga dificultades de pago en sus préstamos. Utilizando un modelo de regresión logistica, este sistema permite a los bancos anticipar problemas y tomar medidas preventivas adecuadas para minimizar las pérdidas financieras; como así también, analizar en detalle el perfil y el estado financiero de cada cliente a través de un dashboard interactivo.
 
 ## Contexto
 
@@ -32,14 +32,12 @@ Este proyecto no solo busca aportar valor a Prestige Bank mediante la reducción
 ## Stack Tecnológico
 - Python (compatible con versiones 3.9 en adelante)
 - Jupyter
-- Poetry ([Tutorial](./docs/README_poetry.md))
 - Scikit-learn
 - Pandas
 - NumPy
 - Matplotlib
 - Seaborn
 - Power BI
-- FastAPI
 - Streamlit
 
 ![Stack Diagram](./images/diagrams/stack-diagram.jpeg)
