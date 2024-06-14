@@ -163,4 +163,5 @@ DataSets/
 ETL/verif_etl.ipynb
 tmp/
 
-/nc
+# ocutar entorno virtual
+nc/
