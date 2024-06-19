@@ -28,6 +28,8 @@ El objetivo principal de este proyecto es desarrollar una aplicación interactiv
 
 Este proyecto no solo busca aportar valor a Prestige Bank mediante la reducción de riesgos, sino también demostrar el poder del análisis de datos y el machine learning en la toma de decisiones estratégicas dentro del sector financiero.
 
+> Link a la aplicación web con el modelo de machine learning y el dashboard interactivo implementados [App](https://proyectodetecciondificultadpago-bbpumkdonws7rpdwbrmmvf.streamlit.app/)
+
 
 ## Stack Tecnológico
 - Python (compatible con versiones 3.9 en adelante)
