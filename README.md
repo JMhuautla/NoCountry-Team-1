@@ -16,7 +16,7 @@ Este sistema se construye utilizando datos históricos de clientes, que incluyen
 
 ## Objetivo
 
-El objetivo principal de este proyecto es desarrollar una aplicación interactiva que integre un modelo de machine learning capaz de predecir la probabilidad de dificultades de pago en clientes de la entidad financiera. Para lograr esto, nos hemos propuesto las siguientes metas específicas:
+El objetivo principal de este proyecto es desarrollar una aplicación wweb interactiva que integre tanto un dashboard interactivo para analizar en detalle el perfil crediticio de los clientes, como un modelo de machine learning capaz de predecir la probabilidad de dificultades de pago en clientes de la entidad financiera. Para lograr esto, nos hemos propuesto las siguientes metas específicas:
 
 - **Recopilación y Análisis de Datos:** Obtener y analizar los datos históricos de los clientes, incluyendo variables financieras y comportamentales.
 
@@ -27,6 +27,10 @@ El objetivo principal de este proyecto es desarrollar una aplicación interactiv
 - **Desarrollo del Dashboard Interactivo:** El dashboard proporcionará a los usuarios una vista integral y dinámica de la situación financiera de los clientes, facilitando una toma de decisiones más informada.
 
 Este proyecto no solo busca aportar valor a Prestige Bank mediante la reducción de riesgos, sino también demostrar el poder del análisis de datos y el machine learning en la toma de decisiones estratégicas dentro del sector financiero.
+
+## Aplicación web
+
+*Vista previa de la aplicación web:*
 
 > Link a la aplicación web con el modelo de machine learning y el dashboard interactivo implementados [App](https://proyectodetecciondificultadpago-bbpumkdonws7rpdwbrmmvf.streamlit.app/)
 
