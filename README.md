@@ -32,6 +32,10 @@ Este proyecto no solo busca aportar valor a Prestige Bank mediante la reducción
 
 *Vista previa de la aplicación web:*
 
+Página de inicio:
+
+
+
 > Link a la aplicación web con el modelo de machine learning y el dashboard interactivo implementados [App](https://proyectodetecciondificultadpago-bbpumkdonws7rpdwbrmmvf.streamlit.app/)
 
 
