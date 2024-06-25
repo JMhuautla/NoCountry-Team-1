@@ -50,6 +50,8 @@ Este proyecto no solo busca aportar valor a Prestige Bank mediante la reducción
 
 > En la página "Modelo de Machine Learning" encontrara el modelo de Machine Learning para realizar las predicciones.
 
+Desde el siguiente link, podra dirigirse a la aplicación web: [Aplicación web](https://proyectodetecciondificultadpago-bbpumkdonws7rpdwbrmmvf.streamlit.app/)
+
 
 ## Stack Tecnológico
 - Python (compatible con versiones 3.9 en adelante)
