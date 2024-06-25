@@ -16,7 +16,7 @@ Este sistema se construye utilizando datos históricos de clientes, que incluyen
 
 ## Objetivo
 
-El objetivo principal de este proyecto es desarrollar una aplicación wweb interactiva que integre tanto un dashboard interactivo para analizar en detalle el perfil crediticio de los clientes, como un modelo de machine learning capaz de predecir la probabilidad de dificultades de pago en clientes de la entidad financiera. Para lograr esto, nos hemos propuesto las siguientes metas específicas:
+El objetivo principal de este proyecto es desarrollar una aplicación web interactiva que integre tanto un dashboard interactivo para analizar en detalle el perfil crediticio de los clientes, como un modelo de machine learning capaz de predecir la probabilidad de dificultades de pago en clientes de la entidad financiera. Para lograr esto, nos hemos propuesto las siguientes metas específicas:
 
 - **Recopilación y Análisis de Datos:** Obtener y analizar los datos históricos de los clientes, incluyendo variables financieras y comportamentales.
 
