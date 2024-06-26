@@ -22,9 +22,10 @@ El objetivo principal de este proyecto es desarrollar una aplicación web intera
 
 - **Desarrollo del Modelo:** Entrenar y validar un modelo de regresión logistica que pueda predecir la probabilidad de dificultades de pago.
 
+- **Desarrollo del Dashboard Interactivo:** El dashboard proporcionará a los usuarios una vista integral y dinámica de la situación financiera de los clientes, facilitando una toma de decisiones más informada.
+
 - **Implementación de la Aplicación:** Crear una interfaz interactiva utilizando Streamlit, donde los usuarios puedan ingresar datos de clientes y obtener predicciones en tiempo real.
 
-- **Desarrollo del Dashboard Interactivo:** El dashboard proporcionará a los usuarios una vista integral y dinámica de la situación financiera de los clientes, facilitando una toma de decisiones más informada.
 
 Este proyecto no solo busca aportar valor a Prestige Bank mediante la reducción de riesgos, sino también demostrar el poder del análisis de datos y el machine learning en la toma de decisiones estratégicas dentro del sector financiero.
 
