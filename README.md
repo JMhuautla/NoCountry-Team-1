@@ -1,6 +1,6 @@
 ![Equipo](./images/equipo.png)
 
-# <h1 align=center> **** </h1>
+# <h1 align=center> **Detección de Clientes con Dificultad de Pago** </h1>
 
 ## Introducción
 
