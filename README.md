@@ -39,7 +39,7 @@ Este proyecto no solo busca aportar valor a Prestige Bank mediante la reducción
 
 > En la página de inicio encontrara información general del banco y de la consultora que realizo el proyecto.
 
-#### Página Dashboard
+#### Página "Dashboard"
 
 ![Página dashboard](./images/Page2.png)
 
