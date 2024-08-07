@@ -45,7 +45,7 @@ Este proyecto no solo busca aportar valor a Prestige Bank mediante la reducción
 
 > En la página "Dashboard" encontrara el dashboard interactivo para analizar el perfil crediticio de los clientes.
 
-#### Página Modelo de Machine Learning
+#### Página "Modelo de Machine Learning"
 
 ![Página modelo](./images/Page3.png)
 
