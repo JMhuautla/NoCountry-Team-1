@@ -54,7 +54,7 @@ Este proyecto no solo busca aportar valor a Prestige Bank mediante la reducción
 Desde el siguiente link, podra dirigirse a la aplicación web: [Aplicación web](https://proyectodetecciondificultadpago-bbpumkdonws7rpdwbrmmvf.streamlit.app/)
 
 
-## Stack Tecnológico
+## <h2 align=center> Stack Tecnológico </h2>
 - Python (compatible con versiones 3.9 en adelante)
 - Jupyter
 - Scikit-learn
@@ -67,7 +67,7 @@ Desde el siguiente link, podra dirigirse a la aplicación web: [Aplicación web]
 
 ![Stack Diagram](./images/diagrams/StackTecnologicoDiagram.png)
 
-## Flujo de Trabajo
+## <h2 align=center> Flujo de Trabajo </h2>
 ![Work Flow Diagram](./images/diagrams/work-flow-diagram.jpeg)
 
 ## Integrantes
