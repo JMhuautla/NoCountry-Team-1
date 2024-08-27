@@ -29,7 +29,7 @@ El objetivo principal de este proyecto es desarrollar una aplicación web intera
 
 Este proyecto no solo busca aportar valor a Prestige Bank mediante la reducción de riesgos, sino también demostrar el poder del análisis de datos y el machine learning en la toma de decisiones estratégicas dentro del sector financiero.
 
-## Aplicación web
+## <h2 align=center> Aplicación Web </h2>
 
 *Vista previa de la aplicación web:*
 
