@@ -14,7 +14,7 @@ Este sistema se construye utilizando datos históricos de clientes, que incluyen
 
 ![PrestigeBank](./images/prestigebank.png)
 
-
+## <h2 align=center> Objetivos </h2>
 
 El objetivo principal de este proyecto es desarrollar una aplicación web interactiva que integre tanto un dashboard interactivo para analizar en detalle el perfil crediticio de los clientes, como un modelo de machine learning capaz de predecir la probabilidad de dificultades de pago en clientes de la entidad financiera. Para lograr esto, nos hemos propuesto las siguientes metas específicas:
 
