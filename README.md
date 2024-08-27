@@ -70,7 +70,7 @@ Desde el siguiente link, podra dirigirse a la aplicación web: [Aplicación web]
 ## <h2 align=center> Flujo de Trabajo </h2>
 ![Work Flow Diagram](./images/diagrams/work-flow-diagram.jpeg)
 
-## Integrantes
+## <h2 align=center> Integrantes </h2>
 
 ### Team Data Science / Machine Learning
 - José Huautla - Team Leader
