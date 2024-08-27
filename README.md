@@ -6,7 +6,7 @@
 
 En la era digital, las instituciones financieras están adoptando cada vez más soluciones basadas en datos para mejorar la toma de decisiones y mitigar riesgos. Este proyecto presenta una aplicación de machine learning diseñada para predecir la probabilidad de que un cliente bancario tenga dificultades de pago en sus préstamos. Utilizando un modelo de regresión logistica, este sistema permite a los bancos anticipar problemas y tomar medidas preventivas adecuadas para minimizar las pérdidas financieras; como así también, analizar en detalle el perfil y el estado financiero de cada cliente a través de un dashboard interactivo.
 
-## Contexto
+## <h2 align=center> Contexto </h2>
 
 El proyecto se desarrolla en el contexto de una entidad financiera (Prestige Bank) que busca mejorar su capacidad de gestión del riesgo crediticio. Tradicionalmente, los bancos han evaluado el riesgo crediticio basándose en métodos cualitativos y cuantitativos clásicos. Sin embargo, con la disponibilidad de grandes volúmenes de datos y los avances en machine learning, es posible construir modelos predictivos más precisos y automatizados.
 
@@ -14,7 +14,7 @@ Este sistema se construye utilizando datos históricos de clientes, que incluyen
 
 ![PrestigeBank](./images/prestigebank.png)
 
-## Objetivo
+
 
 El objetivo principal de este proyecto es desarrollar una aplicación web interactiva que integre tanto un dashboard interactivo para analizar en detalle el perfil crediticio de los clientes, como un modelo de machine learning capaz de predecir la probabilidad de dificultades de pago en clientes de la entidad financiera. Para lograr esto, nos hemos propuesto las siguientes metas específicas:
 
